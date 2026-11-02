@@ -145,6 +145,42 @@ En el día a día saco releases, reviso PRs y dejo el POS, el almacén y las col
 
 <div align="center">
 
+## 📊 Dónde está el trabajo de verdad
+
+</div>
+
+Las tarjetas de stats, la racha y el calendario verde de más abajo **solo ven repositorios públicos**. En esta cuenta eso es casi solo este README y `ai-specs`. Por eso el perfil se ve vacío aunque el día a día no lo sea.
+
+El código del producto vive en la org [proscai](https://github.com/proscai), en repos privados. Ahí es donde abro PRs, saco versiones y reviso al equipo.
+
+```yaml
+# esto no lo pintan las APIs públicas de GitHub
+trabajo_en_proscai:
+  pos:
+    - ePOS / Rompefilas   # SUNMI, cobro offline
+  almacen:
+    - Colector            # inventario, barras y RFID
+    - Picker              # surtido en piso
+    - Checker             # verificador de mercancía
+    - dashboard_sunmi     # parámetros a pistolas y terminales
+  backend_y_canales:
+    - Proscai API         # .NET: pedidos y tickets
+    - traductores         # Foodbot, Mercado Libre, Uber
+    - facturacion_web     # folio de ticket
+    - ecommerce           # Shopify, Tiendanube
+
+en_esos_repos:
+  - pull requests
+  - releases del POS
+  - code review
+```
+
+Los cuadrados verdes del perfil **pueden** reflejar eso si en GitHub activo “Include private contributions” y la org lo permite. Estas tarjetas del README, no: son un servicio público, sin token, y no voy a poner uno aquí.
+
+---
+
+<div align="center">
+
 ## ⚡ Tech Arsenal
 
 </div>
@@ -203,7 +239,7 @@ El resto del producto vive en la org [proscai](https://github.com/proscai), en r
 
 <div align="center">
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics · solo público
 
 <br/>
 
@@ -214,7 +250,11 @@ El resto del producto vive en la org [proscai](https://github.com/proscai), en r
 
 <img src="https://streak-stats.demolab.com/?user=HugoFabre-Dev&theme=dark&hide_border=true&background=0D1117&ring=3DB9FF&fire=F5A623&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3DB9FF&sideLabels=C9D1D9&dates=8B949E" />
 <br/><br/>
-<img src="https://ghchart.rshah.org/3DB9FF/HugoFabre-Dev" alt="Gráfico de contribuciones" />
+<img src="https://ghchart.rshah.org/3DB9FF/HugoFabre-Dev" alt="Gráfico de contribuciones públicas" />
+
+<br/>
+
+<sub>stats · racha · calendario = lo que GitHub deja ver en público. el producto está en repos privados de proscai.</sub>
 
 </div>
 
