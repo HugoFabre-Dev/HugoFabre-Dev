@@ -22,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > Equipo multidisciplinario   > Android iOS Web  ║
+║   > Tech Lead   > Equipo   > Android iOS Web   > Cloud           ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada día."                             ║
 ║                                                                  ║
@@ -57,6 +57,7 @@ ahora:
   - Coordinar un equipo multidisciplinario
     de desarrollo para múltiples productos
   - Apps Android, iOS y web
+  - Cloud: GCP, Vercel, Fly.io
 
 off_duty:
   - 🎮 Fortnite Gamer
@@ -100,7 +101,7 @@ exit 0
 
 </div>
 
-Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**. El código de producto es privado; esto es el rol y el alcance.
+Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**, más **cloud**. El código de producto es privado; esto es el rol y el alcance.
 
 <table align="center">
 <tr>
@@ -125,18 +126,18 @@ Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múl
 </td>
 <td valign="top" width="34%">
 
-**Cómo lo lidero**
+**Cloud**
 
-- Coordino al equipo sobre varios productos a la vez.
-- Rumbo técnico, Linear, releases y code review.
-- API en .NET: pedidos y tickets.
-- Cloud: GCP, Vercel, Fly.io.
+- **GCP**, **Vercel** y **Fly.io**.
+- APIs .NET: pedidos y tickets.
+- Linear para priorizar el trabajo del equipo.
+- Coordino rumbo técnico, releases y review.
 
 </td>
 </tr>
 </table>
 
-En el día a día coordino al equipo, saco releases y dejo Android, iOS, web y las APIs hablando el mismo idioma.
+En el día a día coordino al equipo, saco releases y dejo Android, iOS, web y cloud hablando el mismo idioma.
 
 ---
 
@@ -261,7 +262,7 @@ El resto del producto vive en repositorios privados.
 <td align="center" width="25%"><h2>295</h2>Pull requests</td>
 <td align="center" width="25%"><h2>1.200+</h2>Commits</td>
 <td align="center" width="25%"><h2>Apps</h2>Android · iOS</td>
-<td align="center" width="25%"><h2>Web</h2>APIs · cloud</td>
+<td align="center" width="25%"><h2>Cloud</h2>GCP · Vercel · Fly.io</td>
 </tr>
 </table>
 
