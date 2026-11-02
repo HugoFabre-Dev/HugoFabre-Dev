@@ -5,15 +5,15 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;POS+m%C3%B3vil+%C2%B7+almac%C3%A9n+%C2%B7+API" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;POS+m%C3%B3vil+%C2%B7+almac%C3%A9n+%C2%B7+API" />
-  <img alt="Hugo Fabre · Tech Lead" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;POS+m%C3%B3vil+%C2%B7+almac%C3%A9n+%C2%B7+API" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;Android+%C2%B7+iOS+%C2%B7+Web" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;Android+%C2%B7+iOS+%C2%B7+Web" />
+  <img alt="Hugo Fabre · Tech Lead" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead;Android+%C2%B7+iOS+%C2%B7+Web" />
 </picture>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/Tech_Lead-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
-<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/POS_móvil-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
+<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Android_·_iOS_·_Web-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/Kotlin_·_.NET-3DB9FF?style=for-the-badge&logoColor=0B1F3A" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/GCP_·_Vercel_·_Fly.io-0B1F3A?style=for-the-badge&logoColor=white" /></a>
 
@@ -22,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > Equipo   > Múltiples productos   > Cloud       ║
+║   > Tech Lead   > Equipo multidisciplinario   > Android iOS Web  ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada día."                             ║
 ║                                                                  ║
@@ -53,11 +53,10 @@ location: 🇲🇽 Ciudad de México
 origin: 🌊 Jarocho
 
 ahora:
+  - Tech Lead
   - Coordinar un equipo multidisciplinario
     de desarrollo para múltiples productos
-  - POS móvil en terminales SUNMI
-  - Apps de almacén en Android
-  - APIs y traductores .NET
+  - Apps Android, iOS y web
 
 off_duty:
   - 🎮 Fortnite Gamer
@@ -77,13 +76,10 @@ philosophy: |
 # 🧭 Tech Lead
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Coordinar un equipo multidisciplinario"
-echo "   para múltiples productos"
-echo "📱 Sacar versiones del POS móvil"
-echo "📦 Inventario, surtido y verificación"
-echo "🧾 Facturación y tickets de tienda"
-echo "🔌 Pedidos de delivery al ERP"
-echo "🖥️ Parámetros a equipos SUNMI"
+echo "🧭 Tech Lead: equipo multidisciplinario"
+echo "📱 Apps Android, iOS y web"
+echo "👀 Code review y estándares"
+echo "📋 Priorizar el trabajo en Linear"
 echo "☁️  Desplegar en GCP, Vercel, Fly.io"
 echo "🎮 Seguir aprendiendo,"
 echo "   un día a la vez"
@@ -104,44 +100,43 @@ exit 0
 
 </div>
 
-Coordino un equipo multidisciplinario de desarrollo para múltiples productos: cobro en piso, almacén y canal digital. El código de producto es privado; esto es el rol y el alcance.
+Soy **Tech Lead**: coordino un equipo multidisciplinario de desarrollo para múltiples productos — aplicaciones **Android**, **iOS** y **web**. El código de producto es privado; esto es el rol y el alcance.
 
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
-**Punto de venta**
+**Android**
 
-- POS en Android para terminales SUNMI. Cobra con o sin internet, calcula precios en el aparato, parte el cobro y no pierde la venta si se cae la red.
-- UI de Compose compartida entre apps de piso.
-- Precios del ticket alineados con el ERP, al centavo.
+- Apps Kotlin / Compose en piso y almacén.
+- Cobro en terminales SUNMI, con o sin red.
+- Inventario (barras y RFID), surtido y verificación.
+- UI de Compose compartida entre apps.
 
 </td>
 <td valign="top" width="33%">
 
-**Almacén y liderazgo**
+**iOS y web**
 
-- Inventario por código de barras y RFID.
-- Surtido en piso y verificación de mercancía.
-- Dashboard para parámetros a pistolas y terminales.
-- Coordino al equipo sobre varios productos a la vez: rumbo técnico, Linear, releases y review.
+- Apps iOS en Swift para el mismo ecosistema.
+- Aplicaciones web: facturación, dashboards y backoffice.
+- Conectores de eCommerce (Shopify, Tiendanube) y canales (Foodbot, Mercado Libre, Uber).
 
 </td>
 <td valign="top" width="34%">
 
-**API, canales y cloud**
+**Cómo lo lidero**
 
+- Coordino al equipo sobre varios productos a la vez.
+- Rumbo técnico, Linear, releases y code review.
 - API en .NET: pedidos y tickets.
-- Traductores de delivery y marketplaces (Foodbot, Mercado Libre, Uber).
-- Facturación web por folio de ticket.
-- eCommerce: Shopify, Tiendanube.
 - Cloud: GCP, Vercel, Fly.io.
 
 </td>
 </tr>
 </table>
 
-En el día a día coordino al equipo, saco releases, reviso PRs y dejo el POS, el almacén y las colas hablando el mismo idioma.
+En el día a día coordino al equipo, saco releases y dejo Android, iOS, web y las APIs hablando el mismo idioma.
 
 ---
 
@@ -156,18 +151,18 @@ Las tarjetas automáticas de GitHub **solo ven repositorios públicos**. En esta
 ```yaml
 # esto no lo pintan las APIs públicas de GitHub
 trabajo:
-  pos:
-    - POS móvil SUNMI     # cobro offline
-  almacen:
-    - inventario          # barras y RFID
-    - surtido             # picker en piso
-    - verificacion        # checker de mercancía
-    - dashboard_dispositivos
-  backend_y_canales:
-    - API .NET            # pedidos y tickets
-    - traductores         # Foodbot, Mercado Libre, Uber
-    - facturacion_web
-    - ecommerce           # Shopify, Tiendanube
+  android:
+    - apps de piso y almacén
+    - Kotlin / Compose
+    - cobro offline en SUNMI
+  ios:
+    - apps Swift
+  web:
+    - facturación y dashboards
+    - eCommerce              # Shopify, Tiendanube
+  backend:
+    - API .NET
+    - traductores            # Foodbot, Mercado Libre, Uber
   cloud:
     - GCP
     - Vercel
@@ -195,13 +190,14 @@ como_tech_lead:
 
 <div align="center">
 
-### 📱 Apps de piso
+### 📱 Apps
 
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-3DB9FF?style=for-the-badge&logoColor=0B1F3A" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/SUNMI-0B1F3A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Clover-00853D?style=for-the-badge&logoColor=white" />
 
 ### 🧠 Backend y datos
 
@@ -255,8 +251,8 @@ El resto del producto vive en repositorios privados.
 
 <img src="https://img.shields.io/badge/Pull_Requests-295-3DB9FF?style=for-the-badge&labelColor=0B1F3A" alt="295 pull requests" />
 <img src="https://img.shields.io/badge/Commits-1.200+-F5A623?style=for-the-badge&labelColor=0B1F3A" alt="más de 1.200 commits" />
-<img src="https://img.shields.io/badge/Kotlin-POS_almacén-0078D4?style=for-the-badge&labelColor=0B1F3A" alt="Kotlin en POS y almacén" />
-<img src="https://img.shields.io/badge/.NET-API_traductores-512BD4?style=for-the-badge&labelColor=0B1F3A" alt=".NET en API y traductores" />
+<img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&labelColor=0B1F3A" alt="Android Kotlin" />
+<img src="https://img.shields.io/badge/iOS_·_Web-3DB9FF?style=for-the-badge&labelColor=0B1F3A" alt="iOS y web" />
 
 <br/><br/>
 
@@ -264,8 +260,8 @@ El resto del producto vive en repositorios privados.
 <tr>
 <td align="center" width="25%"><h2>295</h2>Pull requests</td>
 <td align="center" width="25%"><h2>1.200+</h2>Commits</td>
-<td align="center" width="25%"><h2>POS</h2>SUNMI · cobro offline</td>
-<td align="center" width="25%"><h2>API</h2>.NET · traductores</td>
+<td align="center" width="25%"><h2>Apps</h2>Android · iOS</td>
+<td align="center" width="25%"><h2>Web</h2>APIs · cloud</td>
 </tr>
 </table>
 
