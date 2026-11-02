@@ -22,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > POS móvil   > Almacén   > Integraciones        ║
+║   > Tech Lead   > Equipo   > Múltiples productos   > Cloud       ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada día."                             ║
 ║                                                                  ║
@@ -53,7 +53,8 @@ location: 🇲🇽 Ciudad de México
 origin: 🌊 Jarocho
 
 ahora:
-  - Liderar el desarrollo de producto
+  - Coordinar un equipo multidisciplinario
+    de desarrollo para múltiples productos
   - POS móvil en terminales SUNMI
   - Apps de almacén en Android
   - APIs y traductores .NET
@@ -76,7 +77,8 @@ philosophy: |
 # 🧭 Tech Lead
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Marcar el rumbo técnico del equipo"
+echo "🧭 Coordinar un equipo multidisciplinario"
+echo "   para múltiples productos"
 echo "📱 Sacar versiones del POS móvil"
 echo "📦 Inventario, surtido y verificación"
 echo "🧾 Facturación y tickets de tienda"
@@ -102,7 +104,7 @@ exit 0
 
 </div>
 
-Lidero el software que mueve la tienda: cobro en piso, almacén y canal digital. El código de producto es privado; esto es el rol y el alcance.
+Coordino un equipo multidisciplinario de desarrollo para múltiples productos: cobro en piso, almacén y canal digital. El código de producto es privado; esto es el rol y el alcance.
 
 <table align="center">
 <tr>
@@ -122,7 +124,7 @@ Lidero el software que mueve la tienda: cobro en piso, almacén y canal digital.
 - Inventario por código de barras y RFID.
 - Surtido en piso y verificación de mercancía.
 - Dashboard para parámetros a pistolas y terminales.
-- Releases, code review y estándares del equipo.
+- Coordino al equipo sobre varios productos a la vez: rumbo técnico, Linear, releases y review.
 
 </td>
 <td valign="top" width="34%">
@@ -139,7 +141,7 @@ Lidero el software que mueve la tienda: cobro en piso, almacén y canal digital.
 </tr>
 </table>
 
-En el día a día saco releases, reviso PRs y dejo el POS, el almacén y las colas hablando el mismo idioma.
+En el día a día coordino al equipo, saco releases, reviso PRs y dejo el POS, el almacén y las colas hablando el mismo idioma.
 
 ---
 
@@ -170,9 +172,14 @@ trabajo:
     - GCP
     - Vercel
     - Fly.io
+  herramientas:
+    - Linear
 
 como_tech_lead:
+  - equipo multidisciplinario
+  - múltiples productos
   - rumbo técnico
+  - Linear
   - pull requests
   - releases a piso
   - code review
@@ -210,6 +217,7 @@ como_tech_lead:
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Fly.io-24192F?style=for-the-badge&logo=flydotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
 
 ### 🛒 Canales
 
