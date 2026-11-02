@@ -243,8 +243,10 @@ El resto del producto vive en la org [proscai](https://github.com/proscai), en r
 
 <br/>
 
-<img src="./assets/actividad-proscai.svg" alt="295 pull requests y más de 1.200 commits en la org Proscai" width="48%" />
-<img src="./assets/stack-proscai.svg" alt="Kotlin en POS y almacén, C# en API, TypeScript en canales" width="40%" />
+<img src="https://img.shields.io/badge/Pull_Requests-295-3DB9FF?style=for-the-badge&labelColor=0B1F3A" alt="295 pull requests" />
+<img src="https://img.shields.io/badge/Commits-1.200+-F5A623?style=for-the-badge&labelColor=0B1F3A" alt="más de 1.200 commits" />
+<img src="https://img.shields.io/badge/Kotlin-POS_almacén-0078D4?style=for-the-badge&labelColor=0B1F3A" alt="Kotlin en POS y almacén" />
+<img src="https://img.shields.io/badge/.NET-API_traductores-512BD4?style=for-the-badge&labelColor=0B1F3A" alt=".NET en API y traductores" />
 
 <br/><br/>
 
