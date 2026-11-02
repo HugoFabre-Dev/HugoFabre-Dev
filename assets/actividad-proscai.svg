@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title">
+  <title id="title">Actividad en Proscai</title>
+  <rect width="495" height="195" rx="4.5" fill="#0D1117"/>
+  <text x="25" y="38" fill="#3DB9FF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Actividad en Proscai</text>
+  <text x="25" y="58" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">cuenta HugoFabre-Dev · org privada · no es el widget público</text>
+
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#C9D1D9">
+    <text x="25" y="98">Pull requests</text>
+    <text x="25" y="128">Commits en la org</text>
+    <text x="25" y="158">Dónde corre el código</text>
+  </g>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700" text-anchor="end">
+    <text x="470" y="98" fill="#3DB9FF">295</text>
+    <text x="470" y="128" fill="#F5A623">1.200+</text>
+    <text x="470" y="158" fill="#C9D1D9" font-size="14" font-weight="600">ePOS · almacén · API</text>
+  </g>
+</svg>

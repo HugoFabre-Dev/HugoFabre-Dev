@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="195" viewBox="0 0 360 195" role="img" aria-labelledby="title">
+  <title id="title">Stack en el producto Proscai</title>
+  <rect width="360" height="195" rx="4.5" fill="#0D1117"/>
+  <text x="25" y="38" fill="#3DB9FF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Stack del producto</text>
+  <text x="25" y="58" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">sin porcentajes inventados · por superficie</text>
+
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#C9D1D9">
+    <text x="25" y="88">Kotlin</text>
+    <rect x="25" y="94" width="250" height="8" rx="4" fill="#21262D"/>
+    <rect x="25" y="94" width="250" height="8" rx="4" fill="#3DB9FF"/>
+    <text x="285" y="102" fill="#8B949E" font-size="11">POS / almacén</text>
+
+    <text x="25" y="124">C# / .NET</text>
+    <rect x="25" y="130" width="250" height="8" rx="4" fill="#21262D"/>
+    <rect x="25" y="130" width="200" height="8" rx="4" fill="#0078D4"/>
+    <text x="285" y="138" fill="#8B949E" font-size="11">API / colas</text>
+
+    <text x="25" y="160">TypeScript</text>
+    <rect x="25" y="166" width="250" height="8" rx="4" fill="#21262D"/>
+    <rect x="25" y="166" width="140" height="8" rx="4" fill="#F5A623"/>
+    <text x="285" y="174" fill="#8B949E" font-size="11">canales</text>
+  </g>
+</svg>

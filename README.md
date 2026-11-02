@@ -239,22 +239,27 @@ El resto del producto vive en la org [proscai](https://github.com/proscai), en r
 
 <div align="center">
 
-## 📈 GitHub Analytics · solo público
+## 📈 Actividad en Proscai
 
 <br/>
 
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=HugoFabre-Dev&show_icons=true&theme=transparent&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=HugoFabre-Dev&layout=compact&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&hide_border=true" width="40%" />
+<img src="./assets/actividad-proscai.svg" alt="295 pull requests y más de 1.200 commits en la org Proscai" width="48%" />
+<img src="./assets/stack-proscai.svg" alt="Kotlin en POS y almacén, C# en API, TypeScript en canales" width="40%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=HugoFabre-Dev&theme=dark&hide_border=true&background=0D1117&ring=3DB9FF&fire=F5A623&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3DB9FF&sideLabels=C9D1D9&dates=8B949E" />
-<br/><br/>
-<img src="https://ghchart.rshah.org/3DB9FF/HugoFabre-Dev" alt="Gráfico de contribuciones públicas" />
+<table>
+<tr>
+<td align="center" width="25%"><h2>295</h2>Pull requests</td>
+<td align="center" width="25%"><h2>1.200+</h2>Commits en la org</td>
+<td align="center" width="25%"><h2>ePOS</h2>Rompefilas / SUNMI</td>
+<td align="center" width="25%"><h2>API</h2>.NET · traductores</td>
+</tr>
+</table>
 
 <br/>
 
-<sub>stats · racha · calendario = lo que GitHub deja ver en público. el producto está en repos privados de proscai.</sub>
+<sub>cifras de esta cuenta en repos privados de proscai. las tarjetas automáticas de GitHub Stats siguen en cero: no ven la org, y no voy a poner un token en el README.</sub>
 
 </div>
 
