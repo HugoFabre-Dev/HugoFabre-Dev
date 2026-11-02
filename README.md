@@ -5,24 +5,24 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;Aprendiendo+algo+nuevo+cada+d%C3%ADa" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;Aprendiendo+algo+nuevo+cada+d%C3%ADa" />
-  <img alt="Hugo Fabre · Tech Lead Proscai" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;Aprendiendo+algo+nuevo+cada+d%C3%ADa" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;POS+m%C3%B3vil+%C2%B7+almac%C3%A9n+%C2%B7+API" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=0B1F3A&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;POS+m%C3%B3vil+%C2%B7+almac%C3%A9n+%C2%B7+API" />
+  <img alt="Hugo Fabre · Tech Lead Proscai" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=3DB9FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=HUGO+FABRE+%7C+Tech+Lead+Proscai;POS+m%C3%B3vil+%C2%B7+almac%C3%A9n+%C2%B7+API" />
 </picture>
 
 <br/>
 
-<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/Proscai-Technical_Lead-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
-<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/ERP-F5A623?style=for-the-badge&logoColor=0B1F3A&labelColor=F5A623" /></a>
-<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/Punto_de_venta-F5A623?style=for-the-badge&logoColor=0B1F3A&labelColor=F5A623" /></a>
-<a href="https://github.com/HugoFabre-Dev/ai-specs"><img src="https://img.shields.io/badge/AI_copilotos-3DB9FF?style=for-the-badge&logoColor=0B1F3A&labelColor=0B1F3A" /></a>
+<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/Proscai-Tech_Lead-0078D4?style=for-the-badge&logoColor=white&labelColor=0B1F3A" /></a>
+<a href="https://github.com/proscai"><img src="https://img.shields.io/badge/org-proscai-0B1F3A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/ePOS_Rompefilas-F5A623?style=for-the-badge&logoColor=0B1F3A" /></a>
+<a href="https://www.proscai.com"><img src="https://img.shields.io/badge/Kotlin_%C2%B7_.NET-3DB9FF?style=for-the-badge&logoColor=0B1F3A" /></a>
 
 <br/><br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   > Tech Lead   > ERP   > POS   > Retail   > MySQL               ║
+║   > Tech Lead   > POS móvil   > Almacén   > Integraciones        ║
 ║                                                                  ║
 ║   "Aprendiendo algo nuevo cada día."                             ║
 ║                                                                  ║
@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=F5A623&center=true&vCenter=true&width=780&height=50&lines=%24+whoami;Hugo+Fabre+Leyva+%7C+Tech+Lead+en+Proscai;%24+cat+passion.txt;Que+la+tienda+opere+con+control;%24+echo+%24MISSION;Aprender+algo+nuevo+cada+d%C3%ADa" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=F5A623&center=true&vCenter=true&width=820&height=50&lines=%24+whoami;Hugo+Fabre+Leyva+%7C+Tech+Lead+en+Proscai;%24+cat+passion.txt;Cobrar+en+piso+aunque+no+haya+red;%24+echo+%24MISSION;Que+la+tienda+no+se+detenga" />
 </div>
 
 <br/>
@@ -50,17 +50,15 @@ name: Hugo Fabre Leyva
 alias: Hugo
 role: Tech Lead
 company: Proscai
+org: github.com/proscai
 location: 🇲🇽 Ciudad de México
 origin: 🌊 Jarocho
 
-cuenta: trabajo
-github_personal: HugeFabre
-
-oficio:
-  - ERP mexicano para retail
-  - Punto de venta
-  - Inventario y almacenes
-  - Compras, CXC y CXP
+ahora:
+  - Liderar el desarrollo en Proscai
+  - POS móvil en terminales SUNMI
+  - Apps de almacén en Android
+  - APIs y traductores .NET
 
 off_duty:
   - 🎮 Fortnite Gamer
@@ -80,12 +78,12 @@ philosophy: |
 # 🏬 Lo que hago en Proscai
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧭 Liderar el equipo de desarrollo"
-echo "🛒 Cuidar el ERP y el punto de venta"
-echo "📦 Inventario, almacenes y compras"
-echo "🧾 Tickets de tienda, CXC y CXP"
-echo "🐬 Consultas y modelo en MySQL"
-echo "🤖 Copilotos de código en el flujo"
+echo "🧭 Liderar al equipo de desarrollo"
+echo "📱 Sacar versiones del POS móvil"
+echo "📦 Colector, picker y verificador"
+echo "🧾 Facturación y tickets de tienda"
+echo "🔌 Pedidos de delivery al ERP"
+echo "🖥️ Parámetros a equipos SUNMI"
 echo "🎮 Seguir aprendiendo,"
 echo "   un día a la vez"
 
@@ -105,42 +103,43 @@ exit 0
 
 </div>
 
+Trabajo en el software que mueve la tienda: cobro en piso, almacén y lo que entra desde el canal digital. La organización es [proscai](https://github.com/proscai). El código del producto es privado; esto es lo que construyo.
+
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td valign="top" width="33%">
 
-### `$ cat ~/proscai.yaml`
+**Punto de venta**
 
-```yaml
-empresa: Proscai
-rol: Tech Lead
-desde: julio 2025
-producto: ERP + punto de venta
-github: HugoFabre-Dev
-
-trabajo:
-  - Liderar el desarrollo técnico
-  - El ERP que usa el retail en México
-  - Existencias por almacén
-  - Cobro en piso y cierre de día
-  - Cuentas por cobrar y por pagar
-  - Reglas compartidas para IA
-```
+- **ePOS / Rompefilas** — POS en Android para terminales SUNMI. Cobra con o sin internet, calcula precios en el aparato, parte el cobro y no pierde la venta si se cae la red.
+- **proscai-ui** — componentes de Compose que comparte el POS.
+- Precios del ticket alineados con el ERP, al centavo.
 
 </td>
-<td width="45%" valign="top">
+<td valign="top" width="33%">
 
-Esta es la cuenta de trabajo.
+**Almacén**
 
-Desde 2025 lidero el desarrollo técnico de **Proscai**: un ERP mexicano con punto de venta para que la tienda opere con control.
+- **Colector** — inventario por código de barras y RFID.
+- **Picker** — surtido en piso.
+- **Checker / Verificador** — validar mercancía.
+- **Dashboard SUNMI** — parámetros a las pistolas y terminales sin entrar al portal del fabricante.
 
-El núcleo de datos corre en **MySQL**. El día a día es el producto y el equipo: que el software aguante la operación y que los copilotos de código trabajen con las mismas reglas.
+</td>
+<td valign="top" width="34%">
 
-Cuenta personal: [HugeFabre](https://github.com/HugeFabre)
+**ERP y canales**
+
+- **Proscai API** en .NET: el núcleo que materializa pedidos y tickets.
+- Traductores que bajan órdenes de delivery y marketplaces a pedido de Proscai (Foodbot, Mercado Libre, Uber).
+- **Facturación web** por folio de ticket.
+- Conectores de eCommerce: Shopify, Tiendanube.
 
 </td>
 </tr>
 </table>
+
+En el día a día saco releases, reviso PRs y dejo el POS, el almacén y las colas hablando el mismo idioma.
 
 ---
 
@@ -152,24 +151,34 @@ Cuenta personal: [HugeFabre](https://github.com/HugeFabre)
 
 <div align="center">
 
-### 🛒 Producto
+### 📱 Apps de piso
 
-<img src="https://img.shields.io/badge/Proscai_ERP-F5A623?style=for-the-badge&logoColor=0B1F3A" />
-<img src="https://img.shields.io/badge/Punto_de_venta-F5A623?style=for-the-badge&logoColor=0B1F3A" />
-<img src="https://img.shields.io/badge/Retail-0B1F3A?style=for-the-badge&logoColor=white" />
-
-### 🧠 Lenguajes y datos
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,bash,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/SUNMI-0B1F3A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Clover-00853D?style=for-the-badge&logoColor=white" />
 
-### 🤖 Cómo construimos
+### 🧠 Backend y datos
 
-<img src="https://img.shields.io/badge/AI_copilotos-3DB9FF?style=for-the-badge&logoColor=0B1F3A" />
-<img src="https://img.shields.io/badge/Cursor-0B1F3A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,mysql,rabbitmq,redis&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+### 🛒 Canales
+
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Tiendanube-0B1F3A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Mercado_Libre-FFE600?style=for-the-badge&logoColor=0B1F3A" />
+<img src="https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white" />
+
+### ☁️ Cómo lo sacamos
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,astro&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Bruno-F5A623?style=for-the-badge&logoColor=0B1F3A" />
+<img src="https://img.shields.io/badge/MCP-3DB9FF?style=for-the-badge&logoColor=0B1F3A" />
 
 </div>
 
@@ -177,7 +186,7 @@ Cuenta personal: [HugeFabre](https://github.com/HugeFabre)
 
 <div align="center">
 
-## 🛠️ Donde se ve el trabajo
+## 🛠️ Lo que se puede ver en público
 
 <a href="https://github.com/HugoFabre-Dev/ai-specs">
 <img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=HugoFabre-Dev&repo=ai-specs&bg_color=0D1117&title_color=3DB9FF&text_color=C9D1D9&icon_color=F5A623&hide_border=true" />
@@ -185,7 +194,8 @@ Cuenta personal: [HugeFabre](https://github.com/HugeFabre)
 
 <br/>
 
-**ai-specs** — reglas y estándares para copilotos de código en el trabajo de Proscai.
+**ai-specs** — reglas compartidas para copilotos de código en el equipo.  
+El resto del producto vive en la org [proscai](https://github.com/proscai), en repositorios privados.
 
 </div>
 
@@ -216,7 +226,8 @@ Cuenta personal: [HugeFabre](https://github.com/HugeFabre)
 
 <br/>
 
-<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/GitHub_Proscai-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/HugoFabre-Dev"><img src="https://img.shields.io/badge/GitHub_trabajo-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/proscai"><img src="https://img.shields.io/badge/org_proscai-0B1F3A?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/HugeFabre"><img src="https://img.shields.io/badge/GitHub_personal-0B1F3A?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hugofabreleyva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.proscai.com"><img src="https://img.shields.io/badge/Proscai-0B1F3A?style=for-the-badge&logoColor=white" /></a>
